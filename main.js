@@ -1,15 +1,19 @@
-let num1 = 1;
-let num2 =2;
-let num3 = 3;
-let num4 = 4;
-let num5 = 5;
+let num1=(1);
 
-let somma = num1 + num2 + num3 + num4 + num5;
+let num2=(2);
 
-console.log(somma)
+console.log(num1);
 
-let media = somma / 5
+console.log(num2);
 
-console.log(media)
+let stringa=(`Ciaooo`);
 
-console.log("la somma tra i numeri equivale a " + somma + " e la media equivale a "+ media)
+stringa=(`arrivederci`);
+
+console.log(stringa);
+
+const PIGRECO=(3.14159265359);
+
+PIGRECO=(4);
+
+console.log(PIGRECO);   
